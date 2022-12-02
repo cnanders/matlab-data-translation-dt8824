@@ -1,0 +1,8 @@
+{
+	"dependencies":[
+		"matlab_ascii_comm",
+		"matlab_comm",
+		"matlab_hex",
+		"matlab_ieee"
+	]
+}
